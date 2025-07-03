@@ -1,0 +1,15 @@
+{
+  "cv": {
+    "Nom": "gharsallah",
+    "Prenom": "islem",
+    "age": "29",
+    "Formations": {
+      "formation": {
+        "nom": "Testeur logiciel",
+        "ecole": "it-akademy",
+        "dateDebut": "12-05-2025",
+        "dateFin": "26-01-2026"
+      }
+    }
+  }
+}
